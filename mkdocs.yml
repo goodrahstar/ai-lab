@@ -1,0 +1,38 @@
+# Project information
+site_name: 'AI Lab Capabilities'
+site_description: 'All the details to integrate and use AI solutions'
+site_author: 'Rahul Kumar'
+site_url: 'https://www.hellorahulk.com'
+
+
+
+# Repository
+repo_name: 'ai-lab'
+repo_url: 'https://github.com/goodrahstar/ai-lab/'
+
+# Copyright
+copyright: 'Copyright &copy; 2019 Rahul Kumar'
+
+markdown_extensions:
+  - admonition
+
+theme:
+  language: 'en'
+  name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+
+nav:
+- Word2Vec Creator: w2v.md
+- Text Summarization: summary.md
+- Machine Comprehention: mc.md
+- Unsupervised Annotator: annotation.md
+- Deep NER: ner.md
+- Sentiment Analysis: sentiment.md
+
+
+
