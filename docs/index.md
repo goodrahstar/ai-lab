@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# AI Capabilities 
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Documentation of all the AI capabilities.
 
-## Commands
+![alt text](./_static/images/ai-lab.png "Jatana AI")
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Capabilities
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Word2Vec Creator](./w2v.md)
+* [Text Summarization](./summary.md)
+* [Machine Comprehention](./mc.md)
+* [Unsupervised Annotator](annotation.md)
+* [Deep NER](ner.md)
+* [Sentiment Analysis](sentiment.md)
