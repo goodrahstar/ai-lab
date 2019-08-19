@@ -1,8 +1,8 @@
-# AI Capabilities 
+# Overview 
 
 Documentation of all the AI capabilities.
 
-![alt text](./_static/images/ai-lab.png "Jatana AI")
+![alt text](./_static/images/ai-lab.png "AI Lab")
 
 ## Capabilities
 
